@@ -2,13 +2,21 @@ import urllib.request
 import os
 import sys
 
+# Try to load environment variables from a .env file (for local development)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 # The URL and any other sensitive data can be passed via environment variables
 # In GitHub Actions, these are set in the workflow file using secrets
-PLAYLIST_URL = os.getenv("PLAYLIST_URL")
+PLAYLIST_URL = os.getenv("PLAYLIST_URL", "https://rkdyiptv.pages.dev/Playlist/Global.m3u")
 MY_SECRET = os.getenv("MY_SECRET")
 
 if not PLAYLIST_URL:
     print("Error: PLAYLIST_URL not set.")
+    print("If running locally, create a .env file or set the environment variable.")
     sys.exit(1)
 
 print(f"Fetching from hidden source...")
