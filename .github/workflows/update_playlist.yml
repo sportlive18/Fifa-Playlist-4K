@@ -2,8 +2,11 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write          # ← FIX 1: allow the bot to push
 
 jobs:
   build:
@@ -17,6 +20,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Install dependencies     # ← FIX 2: install python-dotenv
+        run: pip install python-dotenv
 
       - name: Run script
         env:
