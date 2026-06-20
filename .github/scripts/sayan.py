@@ -28,7 +28,7 @@ try:
         content = response.read().decode("utf-8")
 
     # Save the file in the root directory (one level up from this script)
-    output_path = os.path.join(os.path.dirname(__file__), "../../Starshare.m3u")
+    output_path = os.path.join(os.path.dirname(__file__), "../../Sayan.m3u")
     
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(content)
