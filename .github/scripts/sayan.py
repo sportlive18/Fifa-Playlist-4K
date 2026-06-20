@@ -11,7 +11,7 @@ except ImportError:
 
 # The URL and any other sensitive data can be passed via environment variables
 # In GitHub Actions, these are set in the workflow file using secrets
-PLAYLIST_URL = os.getenv("PLAYLIST_URL") or "https://rkdyiptv.pages.dev/Playlist/Global.m3u/"
+PLAYLIST_URL = os.getenv("PLAYLIST_URL") or "https://raw.githubusercontent.com/opensourceflix/Friday/refs/heads/main/tmp/%25/privates.m3u8"
 MY_SECRET = os.getenv("MY_SECRET")
 
 if not PLAYLIST_URL:
