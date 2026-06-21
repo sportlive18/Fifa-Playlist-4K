@@ -264,16 +264,40 @@ https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
+#EXTM3U
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",beIN 4k+
+https://streamxyz.shop/bein4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TSN 4K
-https://streamxyz.shop/tsn4k/index.m3u8|referer=https://xyzstreams.shop/
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",Fox4k+
+https://streamxyz.shop/fox4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",Tsn4k+
+https://streamxyz.shop/tsn4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX 4K st
-https://streamxyz.shop/fox4k/index.m3u8|referer=https://xyzstreams.shop/
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",FS1
+https://streamxyz.shop/fs1/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", BEIN HDR 4K
-https://streamxyz.shop/bein4k/index.m3u8|referer=https://xyzstreams.shop/
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",FS1 4K
+https://streamxyz.shop/fs14k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",TSN 1
+https://streamxyz.shop/tsn1/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",beIN
+https://streamxyz.shop/bein/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",Telemundo HLS
+https://streamxyz.shop/Telemundo/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",BBC
+https://streamxyz.shop/BBC/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",FOX USA
+https://vfdbdfbd.pages.dev/1782035826/01d7e64f239a4f7e8a195be0a07a91df/v3S4nmFPoeYV0aGNRrflcJmRRivl32G4RbQNtxMltIA/fox-usa.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",FS1 +
+https://vfdbdfbd.pages.dev/1782035739/29261a9ddafa4736b5cf7388181c1166/DoT0tSFnn2cMtdxUSsh525CnI9ZSlGbIntjdqFpClRk/fox-sports-1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", binge+
