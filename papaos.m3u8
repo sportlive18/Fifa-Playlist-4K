@@ -421,3 +421,64 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", Tv Azteca
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX USA
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/fox-usa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX 4K USA
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",ITV
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/itv-xyz-waUvqaAAC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",TSN 1
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",TSN 4K
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",beIN 12 FR
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/bein12fr-xyz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",beIN 4K
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/bein4k-xyz-waUvqaAAC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",beIN
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/bein-xyz-waUvqaAAC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Fussball TV 1 UHD
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Telemundo
+#KODIPROP:inputstream.adaptive.playassource=1
+#KODIPROP:user-agent=Mozilla/5.0
+#KODIPROP:referer=https://xyzstreams.st/
+https://pacquiao.inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
